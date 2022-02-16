@@ -1,0 +1,26 @@
+body{
+    background: rgb(137, 185, 258);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background: #fff;
+    border-radius: 25px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(39, 37, 37, 0.774);
+
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+
+}
